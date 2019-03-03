@@ -5,6 +5,8 @@
 For this challenge I have used a basic bootstrap template to create a html webpage.
 
 Using the UFO dataset, I have written a code that appends a table to the web page and then adds new rows of data for each UFO sighting.
+
+
 ![](https://github.com/JoannePeel/UFO-sightings/blob/master/html_general.png)
 
 A date form in the HTML document allows to listen for events and search through the date/time column to find rows that match user input, using JavaScript.
